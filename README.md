@@ -2,7 +2,7 @@
 
 ## Description
 
-This website is for companies seeking to get the most out of their advertising and online presence. 
+This website is for companies seeking to get the most out of their advertising and online presence. Source code has been edited to follow semantic structure and for ease of navigation. Links to sections within the webpage are now functioning correctly.
 
 ## Link
 
