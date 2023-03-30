@@ -56,10 +56,12 @@ p {
     color: #ffffff;
 }
 
+/* Consolidated image pixel height */
 .search-engine-optimization img {
     max-height: 200px;
 }
 
+/* Consolidated margin and font size for h2*/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -71,6 +73,7 @@ p {
 }
 
 /*ID selectors */
+/* changed class to id */
 #header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -109,6 +112,7 @@ p {
     background-position: center;
 }
 
+/* changed class to id - only used once */
 #float-right {
     float: right;
     margin-left: 25px;
@@ -120,6 +124,7 @@ p {
     margin-left: 20px;
 }
 
+/* changed class to id */
 #footer {
     padding: 30px;
     clear: both;
